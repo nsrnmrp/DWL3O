@@ -1,0 +1,14 @@
+Pertemuan 9
+------------------
+
+CRUD (Bagian Update)
+1. Buat Menu/ Link/ Tombol di samping kolom kelas, Edit
+2. Buat Routes -> mahasiswa-edit
+3. Buat Controllers Mahasiswa.php
+4. Buat Method -> edit
+5. Buat View difolder mahasiswa -> edit.php
+
+
+parameter dengan nilai angka pada routes menggunakan (:num)
+nilai karakter (:any)
+

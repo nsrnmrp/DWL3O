@@ -1,0 +1,19 @@
+Pertemuan 3
+
+CSS GRID
+
+buat file baru  
+pertemuan3.html
+style.css
+
+layout-grid.html
+
+cari wireframe low-fidelity, pilih yang mudah dipahami, kemudian konversi menjadi tampilan dengan layout grid
+
+
+
+
+
+
+
+

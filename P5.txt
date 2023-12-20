@@ -1,0 +1,9 @@
+Pertemuan 5
+
+buat file baru pertemuan5.html
+pertemuan5.js
+
+Javascript Lanjutan
+Percabangan (kondisi) 
+IF ELSE
+SWITCH CASE
